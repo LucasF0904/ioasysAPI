@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ioasysAPI", "ioasysAPI\ioasysAPI.csproj", "{C5A4348D-86D9-48EC-AE59-91287AFA1F4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ioasysAPI.Tests", "ioasysAPI.Tests\ioasysAPI.Tests.csproj", "{301F7F76-40FF-4DCA-A67C-DF07855A2589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5A4348D-86D9-48EC-AE59-91287AFA1F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A4348D-86D9-48EC-AE59-91287AFA1F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A4348D-86D9-48EC-AE59-91287AFA1F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A4348D-86D9-48EC-AE59-91287AFA1F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{301F7F76-40FF-4DCA-A67C-DF07855A2589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{301F7F76-40FF-4DCA-A67C-DF07855A2589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{301F7F76-40FF-4DCA-A67C-DF07855A2589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{301F7F76-40FF-4DCA-A67C-DF07855A2589}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE6AE708-5E16-473D-AC52-39C08021D172}
+	EndGlobalSection
+EndGlobal
